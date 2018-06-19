@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:3:9-41
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:2:9-67
+application
+ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml:5:5-19
+uses-sdk
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\test\Record\blur-behind\src\main\AndroidManifest.xml
